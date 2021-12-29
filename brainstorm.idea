@@ -1,0 +1,21 @@
+Goals
+  Periodic checks ( Cron ? )
+  Everything is a Plugin System
+  Prometheus statistics  
+  Testing against core
+  Simple Application core
+  
+  
+Core
+  core
+    bin
+    etc/ac.conf
+  plugins
+  tests
+  contrib
+    example.plugin
+    example.ac.conf
+    example.test.??
+    
+
+  
